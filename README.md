@@ -4,9 +4,8 @@
 
 
 - 🌱 Estudo análise e desenvolvimento de sistemas
-- 💬 Em busca de uma oportunidade de estágio
+- 💬 Em busca de uma oportunidade de estágio em tecnologia
 - 📫 Email: amandaluiza3225@gmail.com
-- 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/AmandaLuiza">

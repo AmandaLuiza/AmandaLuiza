@@ -3,8 +3,8 @@
 
 
 
-- 🌱 Estudo análise e desenvolvimento de sistemas
-- 💬 Em busca de uma oportunidade de estágio em tecnologia
+- 🌱 Estudo análise e desenvolvimento de sistemas.
+- 💬 Em busca de uma oportunidade de estágio com ênfase em tecnologia.
 - 📫 Email: amandaluiza3225@gmail.com
 
 <div align="center">

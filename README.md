@@ -20,7 +20,7 @@
   <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Amanda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Amanda-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Amanda-pic" height="150" style="border-radius:50px;" src="https://scontent.fcpq3-1.fna.fbcdn.net/v/t39.30808-6/272074523_2438455062957673_3243697016627499302_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=AeW2HeGf-SsAX-Leu51&_nc_ht=scontent.fcpq3-1.fna&oh=00_AT87OddB5bL1Q_X-9KnlDtP6qC0JAX5YpwjsmPB7-7KgDw&oe=61E9F2B3">
+  <img align="right" alt="Amanda-pic" height="150" style="border-radius:50px;" src="https://scontent.fcpq3-1.fna.fbcdn.net/v/t39.30808-6/272074523_2438455062957673_3243697016627499302_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=00HvJxnbWPAAX-m3zoM&_nc_ht=scontent.fcpq3-1.fna&oh=00_AT_WV6b4Y_TF-t5vT-PRem4TBDyDs74sJPtWQNxNu8qd4g&oe=61F5D033">
 </div>
   
   ##

@@ -1,10 +1,10 @@
-### Olá, o meu nome é Amanda Luiza 👋
+### Hello, my name is Amanda Luiza 👋
 
 
 
 
-- 🌱 Estudo análise e desenvolvimento de sistemas.
-- 💬 Em busca de uma oportunidade de estágio com ênfase em desevolvimento e tecnologia.
+- 🌱 Study systems analysis and development.
+- 💬 Looking for an internship opportunity with an emphasis on development and technology.
 - 📫 Email: amandaluiza3225@gmail.com
 
 <div align="center">

@@ -20,7 +20,7 @@
   <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Amanda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Amanda-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Amanda-pic" height="150" style="border-radius:50px;" src="https://www.facebook.com/photo/?fbid=2438455066291006&set=a.164757420327460">
+  <img align="right" alt="Amanda-pic" height="150" style="border-radius:50px;" src="https://scontent.fcpq3-1.fna.fbcdn.net/v/t39.30808-6/272074523_2438455062957673_3243697016627499302_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=_6BTcKc18aUAX_GR2li&_nc_ht=scontent.fcpq3-1.fna&oh=00_AT-hoTMvQ7Y6YPvLkjrMpdLvphzJu1YMbUw1uu4-04BnMg&oe=620B90F3">
 </div>
   
   ##

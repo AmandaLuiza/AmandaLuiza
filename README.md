@@ -4,7 +4,7 @@
 
 
 - 🌱 Study systems analysis and development.
-- 💬 Looking for an internship opportunity with an emphasis on development and technology.
+- 💬 internship at online applications
 - 📫 Email: amandaluiza3225@gmail.com
 
 <div align="center">

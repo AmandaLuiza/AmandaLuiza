@@ -7,19 +7,19 @@
 - 💬 internship at online applications
 - 📫 Email: amandaluiza3225@gmail.com
 
-## 😎 Para me encontrar:
+## 😎 To find me:
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizaamanda57/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-luiza-4a68b2158/)
-
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/amanda.luiza.223/)
 
 ### 💻 Hards Skills:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
   
 

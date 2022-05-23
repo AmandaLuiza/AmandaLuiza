@@ -25,6 +25,7 @@
 ![CSharp](https://img.shields.io/badge/Csharp-20232A?style=for-the-badge&logo=csharp&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB)
+![CSS](https://img.shields.io/badge/Css-20232A?style=for-the-badge&logo=css&logoColor=61DAFB)
 
 
 

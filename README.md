@@ -22,6 +22,8 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB)
+![C#](https://img.shields.io/badge/C#-20232A?style=for-the-badge&logo=c#&logoColor=61DAFB)
+
 
   
 
@@ -29,7 +31,7 @@
 <div align="center">
   <a href="https://github.com/AmandaLuiza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaLuiza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesscoder2022&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaluiza2&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 

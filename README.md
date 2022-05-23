@@ -12,8 +12,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizaamanda57/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-luiza-4a68b2158/)
-[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/amanda.luiza.223/)
-[![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/Mandyy_luiza)
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/amanda.luiza.223/)
+[![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mandyy_luiza)
 
 
 ### 💻 Hards Skills:

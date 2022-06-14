@@ -35,6 +35,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaLuiza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaluiza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- 
-
-
+  
+  
+<!-- Snake contributions graph https://github.com/Platane/snk -->
+  ![GitHub Snake Light](https://github.com/lkotlarenko/lkotlarenko/blob/output/github-snake.svg#gh-light-mode-only)
+  

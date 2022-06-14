@@ -6,6 +6,7 @@
 - 🌱 Study systems analysis and development.
 - 💬 internship at online applications
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=EleoXDA.visitor-badge&left_color=red&right_color=green&left_text=Number%20of%20Visitors)
 
 ## 😎 To find me:
 
